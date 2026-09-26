@@ -1,0 +1,10 @@
+html{
+    background-color: rgb(197, 135, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 50%;
+    border-radius: 10px;
+}
